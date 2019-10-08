@@ -3,7 +3,7 @@
 # 信息存储课程报告
 
 ## 选题
-- 云存储及其关键技术
+- 云存储架构及其关键技术
 
 ## 论文收集
 ### 云计算
@@ -12,7 +12,7 @@
 ### 云存储架构
 - [Research on cloud storage architecture and key technologies](https://dl.acm.org/ft_gateway.cfm?id=1656114&ftid=705016&dwn=1&CFID=102241163&CFTOKEN=6207881151bc2287-9C47D3AB-9231-E405-EB2C09909F8EF56F)
 - [Cloud storage architecture](https://ieeexplore.ieee.org/abstract/document/6366026)
-
+- [云存储架构及其关键技术](http://www.cnki.com.cn/Article/CJFDTotal-HBYD201803054.htm)
 ### 云存储安全
 - [Cryptographic Cloud Storage](https://link.springer.com/content/pdf/10.1007%2F978-3-642-14992-4.pdf)
 - [Enabling Identity-Based Integrity Auditing and Data
