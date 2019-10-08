@@ -20,6 +20,7 @@ Sharing With Sensitive Information Hiding
 for Secure Cloud Storage](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8395433)
 - [Fuzzy Identity-Based Data Integrity Auditing
 for Reliable Cloud Storage Systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7839231)
+- [综述安全存储系统的技术与发展](http://www.wanfangdata.com.cn/details/detail.do?_type=conference&id=7280636)
 
 ### 云存储案例
 - [RACS: A Case for Cloud Storage Diversity](https://dl.acm.org/ft_gateway.cfm?id=1807165&ftid=809877&dwn=1&CFID=102241163&CFTOKEN=6207881151bc2287-9C47D3AB-9231-E405-EB2C09909F8EF56F)
