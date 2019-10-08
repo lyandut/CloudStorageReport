@@ -12,7 +12,8 @@
 ### 云存储架构
 - [Research on cloud storage architecture and key technologies](https://dl.acm.org/ft_gateway.cfm?id=1656114&ftid=705016&dwn=1&CFID=102241163&CFTOKEN=6207881151bc2287-9C47D3AB-9231-E405-EB2C09909F8EF56F)
 - [Cloud storage architecture](https://ieeexplore.ieee.org/abstract/document/6366026)
-- [云存储架构及其关键技术](http://www.cnki.com.cn/Article/CJFDTotal-HBYD201803054.htm)
+- [云存储系统架构与关键技术研究](http://www.cnki.com.cn/Article/CJFDTotal-HBYD201803054.htm)
+- [云存储系统的架构及关键技术](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=GGAZ201605031&uid=WEEvREcwSlJHSldRa1FhdXNXaEhobms3VmNwb0JscG9UcmhNNjhPZ3RFYz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MTA4MTNvOUdaWVI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkxPZVorWm5GeWpuVkxySUlpcktkTEc0SDlmTXE=)
 ### 云存储安全
 - [Cryptographic Cloud Storage](https://link.springer.com/content/pdf/10.1007%2F978-3-642-14992-4.pdf)
 - [Enabling Identity-Based Integrity Auditing and Data
