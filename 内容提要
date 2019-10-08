@@ -1,1 +1,25 @@
-题目：云存储架构及其相关技术
+## 题目：云存储架构及其关键技术
+
+### 摘要
+
+​		云存储系统是一种新型存储系统，伴随云计算而产生，与传统的专用存储相比，云存储增加了资源利用率。它已成为处理海量数据存储、管理和维护的有效方法，也能满足海量数据的存储需求。论文的主要内容包括了解云存储系统的发展背景、特征及定义；对云存储的关键技术进行分析和研究；对云存储系统的安全问题进行了分析；给出了几个云存储案例进一步加深对云存储的理解；对比多家云存储厂商的架构技术和标准接口，了解其架构的特点。
+
+### 参考文献
+
+> Fox A, Griffith R, Joseph A, et al. Above the clouds: A berkeley view of cloud computing[J]. Dept. Electrical Eng. and Comput. Sciences, University of California, Berkeley, Rep. UCB/EECS, 2009, 28(13): 2009.
+
+>  A, Kaur C. A Study of Data Storage Security Issues in Cloud Computing[J].
+
+> Zeng W, Zhao Y, Ou K, et al. Research on cloud storage architecture and key technologies[C]//Proceedings of the 2nd International Conference on Interaction Sciences: Information Technology, Culture and Human. ACM, 2009: 1044-1048.
+>
+> Hussain A, Xu C, Ali M. Security of Cloud Storage System using Various Cryptographic Techniques[J]. International Journal of Mathematics Trends and Technology (IJMTT), 2018, 60(1): 45-51.
+
+> Storage Networking Industry Association. Cloud Storage Reference Model Jun.2009
+
+> Kamara, Seny, and Kristin Lauter. "Cryptographic cloud storage." *International Conference on Financial Cryptography and Data Security*. Springer, Berlin, Heidelberg, 2010.
+
+> Shen, Wenting, et al. "Enabling identity-based integrity auditing and data sharing with sensitive information hiding for secure cloud storage." *IEEE Transactions on Information Forensics and Security* 14.2 (2018): 331-346.
+
+> Li, Yannan, et al. "Fuzzy identity-based data integrity auditing for reliable cloud storage systems." *IEEE Transactions on Dependable and Secure Computing* 16.1 (2017): 72-83.
+
+> Abu-Libdeh, Hussam, Lonnie Princehouse, and Hakim Weatherspoon. "RACS: a case for cloud storage diversity." *Proceedings of the 1st ACM symposium on Cloud computing*. ACM, 2010.
