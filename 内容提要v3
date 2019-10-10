@@ -2,7 +2,7 @@
 
 ## 摘要
 
-​		云存储系统是一种新型存储系统，伴随云计算而产生，作为云计算的重要一环，它已成为存储、管理和维护海量数据有效方法。云存储不是单纯的存储设备，而是一种云服务，它的核心是通过应用软件实现存储设备向存储服务的转变。相比传统的存储方式，云存储以其成本低廉、可扩展性高、易于管理等优点已成为未来存储发展的一种趋势。
+​		云存储系统是一种新型存储系统，伴随云计算而产生，作为云计算的重要一环，它已成为存储、管理和维护海量数据的有效方法。云存储不是单纯的存储设备，而是一种云服务，它的核心是通过应用软件实现存储设备向存储服务的转变。相比传统的存储方式，云存储以其成本低廉、可扩展性高、易于管理等优点已成为未来存储发展的一种趋势。
 
 ​		论文的主要内容包括：云存储系统的发展背景和定义；综述云存储的架构模型和虚拟化、数据迁移、数据安全等关键技术；在云存储领域，数据安全一直是热点问题，因此我们针对云存储安全进行了深入研究；最后介绍了几个云存储案例，包括 Microsoft、Amazon 提供的公有云存储服务和 Dropbox 的个人云存储，结合关键技术在这些案例中的应用进一步加深对云存储系统的理解。
 
@@ -38,11 +38,11 @@
 
 > Abu-Libdeh H, Princehouse L, Weatherspoon H. RACS: a case for cloud storage diversity[C]//Proceedings of the 1st ACM symposium on Cloud computing. ACM, 2010: 229-240.
 
-> Hussam A, Lonnie P, Hakim W. RACS: A case for cloud storage diversity[J]. Proc. of SoCC, 2010.
-
 > Calder B, Wang J, Ogus A, et al. Windows Azure Storage: a highly available cloud storage service with strong consistency[C]//Proceedings of the Twenty-Third ACM Symposium on Operating Systems Principles. ACM, 2011: 143-157.
 
 > Drago I, Mellia M, M Munafo M, et al. Inside dropbox: understanding personal cloud storage services[C]//Proceedings of the 2012 Internet Measurement Conference. ACM, 2012: 481-494.
+
+> DeCandia G, Hastorun D, Jampani M, et al. Dynamo: amazon's highly available key-value store[C]//ACM SIGOPS operating systems review. ACM, 2007, 41(6): 205-220.
 
 ## 小组成员
 
